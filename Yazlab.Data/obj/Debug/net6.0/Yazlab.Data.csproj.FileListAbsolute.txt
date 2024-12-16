@@ -1,0 +1,14 @@
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\bin\Debug\net6.0\Yazlab.Data.exe
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\bin\Debug\net6.0\Yazlab.Data.deps.json
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\bin\Debug\net6.0\Yazlab.Data.runtimeconfig.json
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\bin\Debug\net6.0\Yazlab.Data.dll
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\bin\Debug\net6.0\Yazlab.Data.pdb
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\obj\Debug\net6.0\Yazlab.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\obj\Debug\net6.0\Yazlab.Data.AssemblyInfoInputs.cache
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\obj\Debug\net6.0\Yazlab.Data.AssemblyInfo.cs
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\obj\Debug\net6.0\Yazlab.Data.csproj.CoreCompileInputs.cache
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\obj\Debug\net6.0\Yazlab.Data.dll
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\obj\Debug\net6.0\refint\Yazlab.Data.dll
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\obj\Debug\net6.0\Yazlab.Data.pdb
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\obj\Debug\net6.0\Yazlab.Data.genruntimeconfig.cache
+C:\Users\frknb\OneDrive\Masaüstü\yazlab1\yazlab1\Yazlab.Data\obj\Debug\net6.0\ref\Yazlab.Data.dll
